@@ -2,7 +2,7 @@
 title: "Resilient distributed optimization for cyber-physical systems under adversarial environments: an event-based method"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/paper2
 excerpt: 'This work presents a resilient distributed optimization algorithm based on the event-triggering mechanism for cyber–physical systems (CPSs) to optimize an average of convex cost functions corresponding to multiple agents under adversarial environments.'
 date: 2024-06-01
 venue: 'ISA Transactions'
