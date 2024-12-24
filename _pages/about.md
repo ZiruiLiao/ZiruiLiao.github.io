@@ -15,7 +15,7 @@ You can find my CV here: [Zirui Liao’s Curriculum Vitae](../assets/Curriculum_
 
 **I’m actively seeking opportunities for a postdoctoral postion starting from Fall 2025.**
 
-[Email](mailto:by2003110@buaa.edu.cn) / [Github](https://github.com/ZiruiLiao) / [Wechat](../images/wechat.jpg)
+[Email](mailto:by2003110@buaa.edu.cn) / [Wechat](../images/wechat.jpg) / [Google Scholar](https://scholar.google.com.hk/citations?user=Snb78G0AAAAJ&hl) / [ResearchGate](https://www.researchgate.net/profile/Zirui-Liao-2)
 
 
 
