@@ -6,7 +6,7 @@ permalink: /publication/paper7
 excerpt: 'This paper considers the cooperative detection of multi-UAVs and proposes a cooperative situation awareness method on the basis of multi-sensor information fusion.'
 date: 2023-01-31
 venue: '2022 International Conference on Guidance, Navigation and Control (ICGNC 2022)'
-paperurl: 'https://link.springer.com/chapter/10.1007/978-981-19-6613-2_63'
+paperurl: '../files/paper7.pdf'
 citation: 'Z. Liao, S. Wang, J. Shi, Z. Li, and MB. Sial. (2022). &quot;Cooperative situation awareness of multi-UAVs based on multi-sensor information fusion.&quot; <i>2022 International Conference on Guidance, Navigation and Control (ICGNC 2022)</i>, pp. 628-638.'
 ---
 
