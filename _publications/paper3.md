@@ -2,7 +2,7 @@
 title: "Resilient consensus through dynamic event-triggered mechanism"
 collection: publications
 category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/paper3
 excerpt: 'In this brief, the resilient consensus problem for multi-agent systems (MASs) is addressed based on the dynamic event-triggered (DE) mechanism, when the network is subject to malicious attacks.'
 date: 2024-02-09
 venue: 'IEEE Transactions on Circuits and Systems II: Express Briefs'
