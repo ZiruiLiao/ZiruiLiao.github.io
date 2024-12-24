@@ -1,13 +1,13 @@
 ---
-title: "Paper Title Number 4"
+title: "Cooperative situation awareness of multi-UAVs based on multi-sensor information fusion"
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+excerpt: 'This paper considers the cooperative detection of multi-UAVs and proposes a cooperative situation awareness method on the basis of multi-sensor information fusion'
+date: 2023-01-31
+venue: '2022 International Conference on Guidance, Navigation and Control (ICGNC 2022)'
+paperurl: 'https://link.springer.com/chapter/10.1007/978-981-19-6613-2_63'
+citation: 'Z. Liao, S. Wang, J. Shi, Z. Li, and MB. Sial. (2022). &quot;Cooperative situation awareness of multi-UAVs based on multi-sensor information fusion.&quot; <i>2022 International Conference on Guidance, Navigation and Control (ICGNC 2022)</i>, pp. 2273-2285.'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
