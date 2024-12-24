@@ -6,7 +6,7 @@ permalink: /publication/2009-10-01-paper1
 excerpt: 'This paper investigates the resilient containment control problem for leader-follower multi-agent systems (MASs) in time-invariant and time-varying digraphs.'
 date: 2024-05-03
 venue: 'IEEE Transactions on Network Science and Engineering'
-paperurl: 'https://ieeexplore.ieee.org/abstract/document/10518136'
+paperurl: 'https://github.com/ZiruiLiao/ZiruiLiao.github.io/blob/master/files/paper1.pdf'
 citation: 'Z. Liao, S. Wang, J. Shi, S. Haesaert, Y. Zhang, and Z. Sun. (2024). &quot;Resilient containment under time-varying networks with relaxed graph robustness.&quot; <i>IEEE Transactions on Network Science and Engineering</i>. 11(5), 4093-4105.'
 ---
 
