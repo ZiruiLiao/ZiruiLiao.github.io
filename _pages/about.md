@@ -7,7 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I'm a fifth-year Ph.D. student from the [School of Automation Science and Electrical Engineering (SASEE)](http://dept3.buaa.edu.cn/), [Beihang University](https://www.buaa.edu.cn/). My research interest includes resilient coordination and optimization, event-triggering mechanism, graph robustness, and cooperative situational awareness.
+
+I am very fortunate to be supervised by [Professor Shaoping Wang](https://shi.buaa.edu.cn/wangshaoping/zh_CN/index.htm) and Associate Professor Jian Shi from SASEE, Beihang University. From Oct 2022 to Apr 2024, I went to Eindhoven University of Technology for and was co-supervised by [Assistant Professor Zhiyong Sun](https://sites.google.com/view/zhiyong-sun/home) and [Assistant Professor Sofie Haesaert](https://www.sofiehaesaert.com/). Before that, I received my B.S. degree in China Agricultural University (supervised by [Professor Jian Chen](https://faculty.cau.edu.cn/cj100/).
+
+You can find my CV here: [Zirui Liao’s Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+
+**I’m actively seeking opportunities for a postdoctoral postion starting from Fall 2025.**
 
 A data-driven personal website
 ======
