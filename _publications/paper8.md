@@ -6,7 +6,7 @@ permalink: /publication/paper8
 excerpt: 'The fault reconstruction of second-order multi-agent formation systems under lost communication is studied.'
 date: 2021-10-30
 venue: '2020 International Conference on Guidance, Navigation and Control (ICGNC 2020)'
-paperurl: 'https://link.springer.com/chapter/10.1007/978-981-15-8155-7_191'
+paperurl: '../files/paper8.pdf'
 citation: 'Z. Liao, S. Wang, J. Shi, and Q. Weng. (2020). &quot;Differential evolution based multi-agent formation fault reconstruction.&quot; <i>2020 International Conference on Guidance, Navigation and Control (ICGNC 2020)</i>, pp. 2273-2285.'
 ---
 
