@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/paper4
 excerpt: 'This study considers the cooperative situational awareness (CSA) problem of multi-UAV systems in the scenario of crossing a three-dimensional (3D) obstacle belt while no prior information of obstacles is required.'
-date: 2023-09-19
+date: 2023-09-06
 venue: 'Aerospace Science and Technology'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S1270963823005023'
 citation: 'Z. Liao, S. Wang, J. Shi, Z. Sun, Y. Zhang, and MB. Sial. (2023). &quot;Cooperative situational awareness of multi-UAV system based on improved D-S evidence theory.&quot; <i>Aerospace Science and Technology</i>. 142, 108605.'
