@@ -6,7 +6,7 @@ permalink: /publication/paper5
 excerpt: 'This paper introduced the design specification of more electric vehicles and investigated the contribution of different kinds of actuators, presenting a new multi-objective configuration optimization approach on the foundation of system reliability, weight, power, and cost.'
 date: 2022-02-06
 venue: 'Aerospace'
-paperurl: 'https://www.mdpi.com/2226-4310/9/2/85'
+paperurl: '../files/paper5.pdf'
 citation: 'Z. Liao, S. Wang, J. Shi, D. Liu, and R. Chen. (2022). &quot;Reliability-oriented configuration optimization of more electrical control system.&quot; <i>Aerospace</i>. 9(2), 85.'
 ---
 
