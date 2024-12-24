@@ -6,7 +6,7 @@ permalink: /publication/paper2
 excerpt: 'This work presents a resilient distributed optimization algorithm based on the event-triggering mechanism for cyber–physical systems (CPSs) to optimize an average of convex cost functions corresponding to multiple agents under adversarial environments.'
 date: 2024-04-16
 venue: 'ISA Transactions'
-paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0019057824001721'
+paperurl: '../files/paper2.pdf'
 citation: 'Z. Liao, S. Wang, J. Shi, M. Li, Y. Zhang, and Z. Sun. (2024). &quot;Resilient distributed optimization for cyber-physical systems under adversarial environments: an event-based method.&quot; <i>ISA Transactions</i>. 149, 1-15.'
 ---
 
