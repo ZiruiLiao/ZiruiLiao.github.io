@@ -3,7 +3,7 @@ title: "Resilient containment under time-varying networks with relaxed graph rob
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper investigates the resilient containment control problem for leader-follower multi-agent systems (MASs) in time-invariant and time-varying digraphs.'
 date: 2024-10-01
 venue: 'IEEE Transactions on Network Science and Engineering'
 paperurl: 'http://ZiruiLiao.github.io/files/paper1.pdf'
