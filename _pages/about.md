@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I was born on June 10, 1999. Currently, I am a fifth-year Ph.D. student from the [School of Automation Science and Electrical Engineering (SASEE)](http://dept3.buaa.edu.cn/), [Beihang University](https://www.buaa.edu.cn/). My research interests include resilient coordination, resilient distributed optimization, event-based resilient algorithm design, graph robustness optimization, and cooperative situational awareness.
+I am a fifth-year Ph.D. student from the [School of Automation Science and Electrical Engineering (SASEE)](http://dept3.buaa.edu.cn/), [Beihang University](https://www.buaa.edu.cn/). My research interests include resilient coordination, resilient distributed optimization, event-based resilient algorithm design, graph robustness optimization, and cooperative situational awareness.
 
 I am very fortunate to be supervised by [Professor Shaoping Wang](https://shi.buaa.edu.cn/wangshaoping/zh_CN/index.htm) and Associate Professor Jian Shi from SASEE, Beihang University. From Oct. 2022 to Apr. 2024, I went to Eindhoven University of Technology (TU/e) in the Netherlands for a joint-supervision project and was co-supervised by [Assistant Professor Zhiyong Sun](https://sites.google.com/view/zhiyong-sun/home) and [Assistant Professor Sofie Haesaert](https://www.sofiehaesaert.com/). Before that, I received my B.S. degree from the College of Engineering (COE), China Agricultural University (supervised by [Professor Jian Chen](https://faculty.cau.edu.cn/cj100/)).
 
