@@ -9,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Awards
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* National Scholarship for Doctoral Students (Chinese Highest honor for University Students, Top 1%)
 * M.S. in Jekyll, GitHub University, 2014
 * B.S. in GitHub, GitHub University, 2012
 
-Work experience
+Services
 ======
 * Spring 2024: Academic Pages Collaborator
   * Github University
@@ -32,7 +32,7 @@ Work experience
   * Duties included: Tagging issues
   * Supervisor: Professor Git
   
-Skills
+Talks
 ======
 * Skill 1
 * Skill 2
