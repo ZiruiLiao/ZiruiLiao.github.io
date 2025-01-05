@@ -11,54 +11,42 @@ redirect_from:
 
 Awards
 ======
-* Nov. 2024: National Scholarship for Doctoral Students (Chinese Highest honor for University Students, Top 1%)
-* Oct. 2024: Shenyuan Medal nomination (Highest Honor in Beihang University, Top 1%)
-* B.S. in GitHub, GitHub University, 2012
+* Oct. 2024: **National Scholarship** for Doctoral Students (Chinese Highest honor for University Students, **Top 1%**)
+* Dec. 2024: **Shenyuan Medal** nomination (Highest Honor in Beihang University, **Top 1\%**)
+* Nov. 2024: **Shixiang Medal** (Highest honor in the Shenyuan Honors College, **Top 2\%**)
+* Oct. 2024: **Yuyuan Star** (Highest Honor in the School of Automation Science and Electrical Engineering, **Top 5\%**)
+* Dec. 2022: **President Scholarship** for Outstanding Student Cadre
+* Mar. 2023: Outstanding Student Scholarship of Shenyuan Honors College
+* Sept. 2021, Sept. 2022, and Sept. 2024: {First-class Academic Scholarship (Three Times)
+* Aug. 2020: First-class Freshman Scholarship
+* Jun. 2020: Outstanding Graduates of Beijing Municipality
+* Jun. 2020: Outstanding Graduation Project of Beijing Municipality
+* Nov. 2018 and Nov. 2019: **National Scholarship** for Undergraduates (Twice, **Top 1\%**)
+* Nov. 2017: Outstanding Student Scholarship of China Agricultural University
+* Nov. 2017, Nov. 2018, and Nov. 2019: First-class Academic Scholarship (Three Times)
+* Nov. 2017: **Second Prize** of the National **Mathematics Competition** for College Students
+* Dec. 2017: **First Prize** of the Provincial and Ministerial **Physics Competition** for College Students
+* Dec. 2018 and Dec. 2019: **Third Prize** of the National **English Competition** for College Students (Twice)
 
 Services
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Active reviewer for several journal and conferences, such as:
+  * ISA Transactions, Aerospace Science and Technology
+  * American Control Conference (ACC)
+  * International Conference on Guidance, Navigation, and Control (ICGNC)
+  * CSAA/IET International Conference on Aircraft Utility Systems (AUS)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Oct. 2020-Jun. 2021: Development Mentor for Undergraduate Students at Shenyuan Honors College, Beihang University
+  * Responsible for providing academic, research and life guidance to students.
+  * Awarded as an **Excellent Development Mentor** for being diligent and responsible in work.
+  * One of the mentored students was awarded **Outstanding Student**.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Talks
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Sept. 2021-Dec. 2021: Teaching Assistant for the Course ``Entering the Robot World''
+  * Responsible for assisting students with the design, fabrication and presentation of wheeled robots.
+  * The group led by me achieved **third place** in the final course presentation.
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Oct. 2020: Conference Volunteer
+  * A volunteer in the 9th International Conference on Guidance, Navigation, and Control (ICGNC 2020).
+  * Responsible for the production of the program book and the summary of the conference information.
+  * Awarded as an **Outstanding Volunteer** in ICGNC 2020.
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
