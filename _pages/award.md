@@ -30,7 +30,7 @@ Awards
 
 Services
 ======
-* Active reviewer for several journal and conferences, such as:
+* Active Reviewer for Several Journals and Conferences, such as:
   * ISA Transactions, Aerospace Science and Technology
   * American Control Conference (ACC)
   * International Conference on Guidance, Navigation, and Control (ICGNC)
