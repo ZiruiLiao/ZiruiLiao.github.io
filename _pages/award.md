@@ -11,8 +11,8 @@ redirect_from:
 
 Awards
 ======
-* 2024. 11: National Scholarship for Doctoral Students (Chinese Highest honor for University Students, Top 1%)
-* 2024. 10: Shenyuan Medal nomination (Highest Honor in Beihang University, Top 1%)
+* Nov. 2024: National Scholarship for Doctoral Students (Chinese Highest honor for University Students, Top 1%)
+* Oct. 2024: Shenyuan Medal nomination (Highest Honor in Beihang University, Top 1%)
 * B.S. in GitHub, GitHub University, 2012
 
 Services
