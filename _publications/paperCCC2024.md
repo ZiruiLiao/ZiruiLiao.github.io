@@ -5,6 +5,7 @@ category: conferences
 permalink: /publication/paperCCC2024
 date: 2024-07-31
 venue: '43rd Chinese Control Conference (Extended Abstract)'
+slidesurl: '../files/slidesCCC2024.pdf'
 paperurl: '../files/paperCCC2024.pdf'
 excerpt: "**Zirui Liao**, Shaoping Wang, Jian Shi, Yuwei Zhang, Rentong Chen, and Zhiyong Sun. <br/><img src='/images/figureCCC2024.png'>"
 ---
