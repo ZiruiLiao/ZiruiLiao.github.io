@@ -3,7 +3,7 @@ title: "Resilient Consensus Through Dynamic Event-Triggered Mechanism"
 collection: publications
 category: conferences
 permalink: /publication/paperBenelux2024
-excerpt: "**Zirui Liao**, and Zhiyong Sun. <br/><img src='/images/figureBenelux2024.png' width='80%'>"
+excerpt: "**Zirui Liao**, and Zhiyong Sun. <br/><img src='/images/figure8.png' width='80%'>"
 date: 2024-03-31
 venue: '43rd Benelux Meeting on Systems and Control (Extended Abstract)'
 slidesurl: '../files/slides1.pdf'
