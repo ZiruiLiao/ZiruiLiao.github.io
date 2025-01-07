@@ -17,7 +17,7 @@ Awards
 * Oct. 2024: **Yuyuan Star** (Highest Honor in the School of Automation Science and Electrical Engineering, **Top 5%**)
 * Dec. 2022: **President Scholarship** for Outstanding Student Cadre
 * Mar. 2023: Outstanding Student Scholarship of Shenyuan Honors College
-* Sept. 2021, Sept. 2022, and Sept. 2024: {First-class Academic Scholarship (Three Times)
+* Sept. 2021, Sept. 2022, and Sept. 2024: First-class Academic Scholarship (Three Times)
 * Aug. 2020: First-class Freshman Scholarship
 * Jun. 2020: Outstanding Graduates of Beijing Municipality
 * Jun. 2020: Outstanding Graduation Project of Beijing Municipality
