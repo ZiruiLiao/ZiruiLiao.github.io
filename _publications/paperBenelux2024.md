@@ -2,7 +2,7 @@
 title: "Resilient Consensus Through Dynamic Event-Triggered Mechanism"
 collection: publications
 category: conferences
-permalink: /publication/paperCCC2024
+permalink: /publication/paperBenelux2024
 date: 2024-03-31
 venue: '43rd Benelux Meeting on Systems and Control (Extended Abstract)'
 paperurl: '../files/paperBenelux2024.pdf'
