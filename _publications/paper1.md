@@ -7,6 +7,7 @@ excerpt: 'This paper investigates the resilient containment control problem for 
 date: 2024-05-03
 venue: 'IEEE Transactions on Network Science and Engineering'
 paperurl: '../files/paper1.pdf'
+slidesurl: '../files/slides1.pdf'
 excerpt: "**Zirui Liao**, Shaoping Wang, Jian Shi, Sofie Haesaert, Yuwei Zhang, and Zhiyong Sun. <br/><img src='/images/figure3.png' width='90%'>"
 ---
 
