@@ -8,7 +8,7 @@ date: 2024-03-31
 venue: '43rd Benelux Meeting on Systems and Control (Extended Abstract)'
 slidesurl: '../files/slides1.pdf'
 paperurl: '../files/paperBenelux2024.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+citation:
 ---
 
 The increasing concern for cyber security in recent years has been accompanied by the attention paid to solving the consensus problem for multi-agent systems (MASs) against malicious attacks. Open communications via shared networks are vulnerable to potential attacks, thereby causing irreparable losses. Another concern is the heavy communication burden, which is caused by frequent interactions between agents. Motivated by these observations, this paper aims to design a dynamic event-triggered (DE) controller for the MAS to achieve exact resilient consensus with reduced communication overheads. Despite the influence of noncooperative agents in the network, the states of all cooperative agents will converge to the same consensus value eventually.
