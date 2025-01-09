@@ -6,6 +6,7 @@ permalink: /publication/paperBenelux2023
 date: 2023-03-31
 venue: '42nd Benelux Meeting on Systems and Control (Extended Abstract)'
 paperurl: '../files/paperBenelux2023.pdf'
+slidesurl: '../files/SlidesBenelux2023.pdf'
 excerpt: "**Zirui Liao**, and Zhiyong Sun. <br/><img src='/images/figureBenelux2023.png'>"
 ---
 
