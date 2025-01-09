@@ -7,6 +7,7 @@ excerpt: 'This paper considers the cooperative detection of multi-UAVs and propo
 date: 2022-07-31
 venue: '9th International Conference on Guidance, Navigation and Control'
 paperurl: '../files/paper7.pdf'
+slidesurl: '../files/SlidesICGNC2022.pdf'
 excerpt: "**Zirui Liao**, Shaoping Wang, Jian Shi, Zhenkun Li, and Muhammad Baber Sial. <br/><img src='/images/figureICGNC2022.png' width='90%'>"
 ---
 
