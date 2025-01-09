@@ -7,6 +7,7 @@ excerpt: 'The fault reconstruction of second-order multi-agent formation systems
 date: 2020-10-30
 venue: '8th International Conference on Guidance, Navigation and Control'
 paperurl: '../files/paper8.pdf'
+slidesurl: '../files/slidesICGNC2020.pdf'
 excerpt: "**Zirui Liao**, Shaoping Wang, Jian Shi, and Qiwang Weng. <br/><img src='/images/paperICGNC2020.png'>"
 ---
 
