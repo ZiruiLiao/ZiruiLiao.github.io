@@ -13,7 +13,7 @@ I am very fortunate to be supervised by [Professor Shaoping Wang](https://shi.bu
 
 You can find my CV here: [Zirui Liao’s Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-**I’m actively seeking opportunities for a postdoctoral postion starting from Fall 2025.**
+**I’m actively seeking opportunities for a postdoctoral position starting from Fall 2025.**
 
 [Email](mailto:by2003110@buaa.edu.cn) / [Wechat](../images/wechat.jpg) / [Google Scholar](https://scholar.google.com.hk/citations?user=Snb78G0AAAAJ&hl) / [ResearchGate](https://www.researchgate.net/profile/Zirui-Liao-2)
 
